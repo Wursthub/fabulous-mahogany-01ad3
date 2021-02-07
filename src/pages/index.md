@@ -29,10 +29,11 @@ sections:
     is_numbered: true
     grid_items:
       - title: Science
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I studied quantum physics to understand what information is and the
+          limits of knowledge. Neuro- and molecularbiology thought me about
+          perception and information processing. AI enables me to experimentally
+          reconstruct human knowledge in a mathematical model.
       - title: High-Tech
         content: >
           Science is just a tool-set to understand the world. Putting it to
