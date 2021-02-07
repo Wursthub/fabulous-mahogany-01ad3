@@ -10,7 +10,7 @@ template: project
 ---
 ### The Problem
 
-As an interdisciplinary scientist finding the right word to search for is sometimes not easy. When reading a paper, searching for relevant sections using CTRL+F is too dumb. Searching for "feeding" won't show potentially relevant sections like "nutrition".
+As an interdisciplinary scientist. even finding the right word to search for is not easy if you are unfamiliar with a new topic or field. When reading a paper, searching for relevant sections using CTRL+F is too dumb. Searching for "feeding" won't show potentially relevant sections like "nutrition".
 
 ### The Goal
 
