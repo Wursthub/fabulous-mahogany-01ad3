@@ -26,7 +26,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Talk
+          - Opportunity
           - Other
       - input_type: textarea
         name: message
