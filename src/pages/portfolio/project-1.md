@@ -28,9 +28,9 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Christoph Götz: Conception, data and model
 
-*   James Dommisse: Backend
+*   James Dommisse: Backend and Frontend magic
 
-*   Johannes Schuh: Frontend
+*   Johannes Schuh: Search visualization Java magic
 
 ### The Result
 
