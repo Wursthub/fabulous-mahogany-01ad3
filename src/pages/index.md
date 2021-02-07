@@ -41,7 +41,8 @@ sections:
       - title: Music
         content: >
           I spent most of the teens in rehearsal rooms playing drums and piano.
-          Now, I program jazzy-electro at home and sometimes live with friends.
+          Nowadays, I program jazzy-elektronika at home and sometimes play live
+          with friends in Vienna.
       - title: Photography
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
