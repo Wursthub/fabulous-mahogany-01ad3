@@ -37,8 +37,8 @@ sections:
       - title: High-Tech
         content: >
           Science is just a tool-set to understand the world. Putting it to
-          practice to make the world a better place whilst inspiring others to
-          do the same is extremely motivating. 
+          practice to make the world a better place while inspiring others to do
+          the same is extremely motivating.
       - title: Music
         content: >
           I spent most of the teens in rehearsal rooms playing drums and piano.
