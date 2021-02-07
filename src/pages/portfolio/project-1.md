@@ -4,7 +4,7 @@ subtitle: Use machine learning to find related terms in scientific papers
 date: '2016-10-10'
 thumb_image: images/Screenshot_2021-02-07 https scispy github io.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/Screenshot_2021-02-07 https scispy github io.png
 image_alt: 'White, black, and red shoe sole'
 template: project
 ---
