@@ -42,4 +42,6 @@ Thinking of words in terms of vectors and semantic meaning as distance between v
 
 While researching this topic I talked to researchers in the quantum physics group of Zeilinger. [Markus Krenn](https://scholar.google.at/citations?user=jzG7GC8AAAAJ\&hl=en) worked on an even cooler project namely predicting future research trends in a pretty similar manner. [His work was finally published in PNAS](https://www.pnas.org/content/117/4/1910.short) in 2020.
 
-####
+> Using network theoretical tools, we can suggest personalized, out-of-the-box ideas by identifying pairs of concepts, which have unique and extremal semantic network properties.
+
+Thats such a cool concept! Predicting your future ideas based on the knowledge that is already somewhere around you. This substantiates the fact, that most big discoveries are often discovered by multiple people simulataneously (e.g. Evolution or Mendeleian inheritance). If the basic knowledge is available and people spend enough time and energy on connecting the dots, the dots will be connected. 
