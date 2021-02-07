@@ -34,10 +34,6 @@ A smart search engine that facilitates finding semantically similar terms and re
 
 ### Lessons Learned
 
-
-
-
-
 ###
 
 ####
