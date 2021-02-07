@@ -4,7 +4,7 @@ subtitle: This is a short page about me and my work.
 image: images/about.jpg
 image_alt: A man taking a picture
 template: page
-excerpt: asdfasdfasdf
+excerpt: ''
 ---
 Growing up on the countryside I always loved nature. My parents are hobby botanists and genuinly cared for human beings and the world we live in. I continue this path by trying to understand natures design principles to make the world a more awesome place.
 
