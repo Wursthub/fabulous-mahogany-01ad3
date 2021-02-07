@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Christoph Götz.'
     content: >
-      I like research, high-tech, music and photography. Currently, I help
+      I like science, high-tech, music and photography. Currently, I help
       building AI to facilitate early diagnosis of musculoskeletal disease for
-      over a billion patients worldwide. 
+      over a billion patients worldwide.
     actions:
       - label: Let's talk
         url: /contact
