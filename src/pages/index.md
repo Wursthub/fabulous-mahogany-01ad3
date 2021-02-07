@@ -44,9 +44,10 @@ sections:
           Nowadays, I program jazzy-elektronika at home and sometimes play live
           with friends in Vienna.
       - title: Photography
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Using photography to elevate mundane objects or moments to show their
+          inherent beauty is what I try while traveling. This way I focus much
+          more on the moment and create stronger memories at the same time.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
