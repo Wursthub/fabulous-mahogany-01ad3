@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Christoph Götz.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I like research, high-tech, music and photography. Currently, I help
+      building AI to facilitate early diagnosis of musculoskeletal disease for
+      over a billion patients worldwide. 
     actions:
       - label: Let's talk
         url: /contact
