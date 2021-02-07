@@ -10,8 +10,6 @@ template: page
 
 
 
-![](https://preview.redd.it/4g7qnrx801g61.jpg?width=640\&height=1137\&crop=smart\&auto=webp\&s=82b06ec91a52dd83c2b277d1295d3a9f74028bd8)
-
 # This is an H1
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
