@@ -34,10 +34,10 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
       - title: High-Tech
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Science is just a tool-set to understand the world. Putting it to
+          practice to make the world a better place whilst inspiring others to
+          do the same is extremely motivating. 
       - title: Music
         content: >
           I spent most of the teens in rehearsal rooms playing drums and piano.
