@@ -8,6 +8,10 @@ image: images/Screenshot_2021-02-07 https scispy github io.png
 image_alt: 'White, black, and red shoe sole'
 template: project
 ---
+The vast and growing number of publications in all disciplines of science cannot be comprehended by a single human researcher. As a 
+consequence, researchers have to specialize in narrow subdisciplines, which makes it challenging to uncover scientific connections beyond the 
+own field of research. 
+
 ### The Problem
 
 As an interdisciplinary scientist. even finding the right word to search for is not easy if you are unfamiliar with a new topic or field. When reading a paper, searching for relevant sections using CTRL+F is too dumb. Searching for "feeding" won't show potentially relevant sections like "nutrition".
@@ -34,6 +38,10 @@ A smart search engine that facilitates finding semantically similar terms and re
 
 ### Lessons Learned
 
-###
+Thinking of words in terms of vectors and semantic meaning as distance between vectors was a fun excersise. Meaning of scientific fields are formed by *bubbles *of words  that partially overlap with other fields (think *fat* used in nutrition, detergents and organic chemistry in very different contexts). New evolving fields are budding off existing bubbles until they come completely distinct from its original semantic home. This process of knowledge creation was fascinating but - as always - not really novel and just the beginning:
+
+While researching this topic I talked to researchers in the quantum physics group of Zeilinger. [Markus Krenn](https://scholar.google.at/citations?user=jzG7GC8AAAAJ\&hl=en) worked on an even cooler project namely predicting future research trends in a pretty similar manner. [His work was finally published in PNAS](https://www.pnas.org/content/117/4/1910.short) in 2020.
+
+
 
 ####
