@@ -32,8 +32,7 @@ sections:
         content: >
           I studied physics and the quantum world to understand what information
           is. Neuro- and molecularbiology thought me about perception and
-          information processing. AI enables me to tinker with human knowledge
-          in a mathematical model.
+          information processing. AI enables me to tinker with human knowledge.
       - title: High-Tech
         content: >
           Science is just a tool-set to understand the world. Putting it to
