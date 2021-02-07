@@ -22,6 +22,10 @@ A smart search engine that facilitates finding semantically similar terms and re
 
 ### The Team
 
+Without the help of my genious friends and lots of free time this idea would have not been possible
+
+*   Joanna Kaczanowska: Problem
+
 *   Christoph Götz: Conception, data and model
 
 *   James Dommisse: Backend
