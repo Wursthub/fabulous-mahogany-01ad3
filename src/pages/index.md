@@ -39,10 +39,9 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
       - title: Music
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          I spent most of the teens in rehearsal rooms playing drums and piano.
+          Now, I program jazzy-electro at home and sometimes live with friends.
       - title: Photography
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
