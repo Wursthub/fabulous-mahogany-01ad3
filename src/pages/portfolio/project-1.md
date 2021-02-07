@@ -2,7 +2,7 @@
 title: SciSpy
 subtitle: A semantic AI-model to facilitate search in scientific papers
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/Screenshot_2021-02-07 https scispy github io.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
