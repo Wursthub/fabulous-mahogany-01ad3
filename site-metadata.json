@@ -53,7 +53,7 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/",
                 "style": "icon",
-                "icon_class": "fa-air-freshener",
+                "icon_class": "fas fa-air-freshener",
                 "new_window": true
             },
             {
