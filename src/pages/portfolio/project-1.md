@@ -44,4 +44,6 @@ While researching this topic I talked to researchers in the quantum physics grou
 
 > Using network theoretical tools, we can suggest personalized, out-of-the-box ideas by identifying pairs of concepts, which have unique and extremal semantic network properties.
 
-Thats such a cool concept! Predicting your future ideas based on the knowledge that is already somewhere around you. This substantiates the fact, that most big discoveries are often discovered by multiple people simulataneously (e.g. Evolution or Mendeleian inheritance). If the basic knowledge is available and people spend enough time and energy on connecting the dots, the dots will be connected. 
+Thats such a cool concept! Predicting your future ideas based on the knowledge that is already somewhere around you. This substantiates the fact, that most big discoveries are often discovered by multiple people simulataneously (e.g. Evolution or Mendeleian inheritance). If the basic knowledge is available and people spend enough time and energy on connecting the dots, the dots will be connected.
+
+What started out as a simple tool for vectorizing words ended up in learning about fundamental vectors in culturual evolution. You never know :D
