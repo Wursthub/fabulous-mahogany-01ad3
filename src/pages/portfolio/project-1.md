@@ -1,5 +1,5 @@
 ---
-title: SciSpy
+title: SciSpy - intelligent search
 subtitle: A semantic AI-model to facilitate search in scientific papers
 date: '2016-10-10'
 thumb_image: images/Screenshot_2021-02-07 https scispy github io.png
