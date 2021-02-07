@@ -30,10 +30,10 @@ sections:
     grid_items:
       - title: Science
         content: >
-          I studied quantum physics to understand what information is and the
-          limits of knowledge. Neuro- and molecularbiology thought me about
-          perception and information processing. AI enables me to experimentally
-          reconstruct human knowledge in a mathematical model.
+          I studied physics and the quantum world to understand what information
+          is and the limits of knowledge. Neuro- and molecularbiology thought me
+          about perception and information processing. AI enables me to
+          experimentally reconstruct human knowledge in a mathematical model.
       - title: High-Tech
         content: >
           Science is just a tool-set to understand the world. Putting it to
