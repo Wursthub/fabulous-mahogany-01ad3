@@ -1,5 +1,5 @@
 ---
-title: LaserEye
+title: LaserEye - digital eye protection
 subtitle: Protecting against all laser types while expanding human vision
 date: '2019-04-30'
 thumb_image: images/Lasereye-worldsbest.jpg
