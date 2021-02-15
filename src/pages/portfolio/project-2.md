@@ -46,7 +46,7 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Communication strategy, pitching, business models all on a shoestring budget
 
-*   Validated problem and technological solution characterized but difficult product-market fit
+*   Lots of use-case discovery, validated problem and technological solution characterized but difficult product-market fit
 
 ![](https://raw.githubusercontent.com/Wursthub/fabulous-mahogany-01ad3/master/static/images/Lasereye-firstprize.png)
 
