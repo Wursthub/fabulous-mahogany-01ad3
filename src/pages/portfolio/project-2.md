@@ -65,3 +65,5 @@ Furthermore, biology and technology just did not match (yet). The lesson is, tha
 **Low latency FPGA computing** is required especially when watching your real environment. Motion sickness already can be induced with few ms of delay between the recording of the image and its display which pushed us towards using FPGAs for the processing. These chips are expensive and hard to program especially when trying to implement lens correction algorithms, HDR etc. Using see-through enabled AR-headsets with fancy chips from e.g. [Qualcomm](https://www.qualcomm.com/products/snapdragon-xr1-platform) might shift the development effort to companies that can actually afford it. However, certifying a consumer headset for use in the laser lab is a challenge by itself.
 
 All in all, thinking through a business case in emerging fields like optical sensors, AR-goggles and laser-tech gave me a good impression of the state of the art in high-tech and the limitations of this technology when it comes to bio-vision that was optimized for a few billion years by evolution.
+
+Extra goodie: Learned video editing and tracking [for a promo video](< https://vimeo.com/220132356>)
