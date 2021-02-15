@@ -38,7 +38,7 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Christoph Götz - customer development, business development
 
-*   Shoutout to [Valentin Aschermann](https://www.linkedin.com/in/valentin-aschermann-3a544045/) for being an awesome mentor and motivator
+*   Shoutout to [Valentin Aschermann](https://www.linkedin.com/in/valentin-aschermann-3a544045/) for being an awesome mentor and motivator (and related to Bach!)
 
 ### The Result
 
