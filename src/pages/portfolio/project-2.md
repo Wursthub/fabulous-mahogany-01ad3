@@ -38,8 +38,6 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Christoph Götz - customer development, business development
 
-![](https://raw.githubusercontent.com/Wursthub/fabulous-mahogany-01ad3/master/static/images/Lasereye-firstprize.png)
-
 ### The Result
 
 *   Admitted to prestigeous high-tech incubator [Inits](https://www.inits.at/en/home/). 9 Month program including tutoring financial support and goverment grants
@@ -48,7 +46,9 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Communication strategy, pitching, business models all on a shoestring budget
 
-*   Validated problem and technological solution characterized but hardly feasible
+*   Validated problem and technological solution characterized but difficult product-market fit
+
+![](https://raw.githubusercontent.com/Wursthub/fabulous-mahogany-01ad3/master/static/images/Lasereye-firstprize.png)
 
 ### Lessons Learned
 
