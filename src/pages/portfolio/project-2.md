@@ -2,9 +2,9 @@
 title: LaserEye
 subtitle: Protecting against all laser types while expanding human vision
 date: '2019-04-30'
-thumb_image: images/Lasereye-worldsbest.jpg 
+thumb_image: images/Lasereye-worldsbest.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/Lasereye-worldsbest.jpg
 image_alt: An orange on a blue background
 template: project
 ---
