@@ -22,7 +22,7 @@ Neuroscience and quantum physics often requires the use of dangerous and often i
 
 The best protection would be having no photons from the outside hitting your eyes. By blocking the light path with camera lenses and showing the outside world only via augmented reality protects from all light, enables digital head-up displays and even visualizes infrared and UV-light due to the camera sensors sensitivity in these regions. 
 
-![](https://raw.githubusercontent.com/Wursthub/fabulous-mahogany-01ad3/ecc50d8b027bb6787a90aa9de5a95c18a1e7eaa7/Lasereye-Problem.png)
+![](Lasereye-Problem.png)
 
 ### The Team
 
