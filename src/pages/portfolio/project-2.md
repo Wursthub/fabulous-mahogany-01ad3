@@ -38,6 +38,8 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Christoph Götz - customer development, business development
 
+*   Shoutout to [Valentin Aschermann](https://www.linkedin.com/in/valentin-aschermann-3a544045/) for being an awesome mentor and motivator
+
 ### The Result
 
 *   Admitted to prestigeous high-tech incubator [Inits](https://www.inits.at/en/home/). 9 Month program including tutoring financial support and goverment grants
