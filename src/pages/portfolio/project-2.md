@@ -32,7 +32,7 @@ Most basic sensors cover a large infrared regime including often used 1064nm las
 
 Without the help of my genious friends and lots of free time this idea would have not been possible
 
-*   Ugur Sezer - customer development, business development
+*   [Ugur Sezer](https://www.linkedin.com/in/ugur-sezer-309387101/) - customer development, business development, just an awesome dude
 
 *   Philipp Geyer - basic technology prototype
 
@@ -54,7 +54,7 @@ Diving into business, while understanding the use of lasers in medicine, manufac
 
 The summary is, that the need is there. People do have problems with goggles, however - at least in science - scientists are not sooooo careful and often just circumvent the safety protocols to get the experiment done. For repetitive tasks in industry almost everything involving a terrible laser is secured with organizational measures e.g. putting everything in a tight box to avoid the need for goggles completely. Medicine would need a medical device certification and extremely high standards which would make the solution potentially very expensive.
 
-The market itself is thus, pretty niche albeit the field itself (laser tech) is a key technology and had a 30% CAGR at the time.
+The market itself is pretty niche, albeit the field itself (laser tech) is a key technology and had a 30% CAGR at the time.
 
 Furthermore, biology and technology just did not match (yet). The lesson is, that the human eye is just damn good at what its doing! The dynamic range is incredible which allows us to operate fairly well in dark lit environments even with some bright spots around.
 
