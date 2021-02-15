@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-image: images/about.jpg
+image: images/Screenshot_2021-02-16 Master Slide Deck.png
 image_alt: A man taking a picture
 template: page
 excerpt: ''
