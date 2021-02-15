@@ -28,17 +28,17 @@ Without the help of my genious friends and lots of free time this idea would hav
 
 *   Christoph Götz: Conception, data and model
 
-*   James Dommisse: Backend and Frontend magic
+*   James Dommisse: AWS EC2 backend and [Flask frontend magic](https://flask.palletsprojects.com/en/1.1.x/)
 
-*   Johannes Schuh: Search visualization Java magic
+*   Johannes Schuh: Search visualization Javascript magic
 
 ### The Result
 
-*   Scraped and tokenized 100k+ scientific papers from Pubmed et al
+*   Used [Scrapy](https://scrapy.org/) to download 100k+ scientific papers from Pubmed et al
 
 *   Vectorized the topics using [Gensim](https://radimrehurek.com/gensim/) (word2vec)
 
-*   Website to copy text to form, search for string and highligh semantically similar terms with thresholding
+*   Website to copy text to form, search field for string. Will automatically calculate semantic distance to searchterm and highligh semantically similar terms
 
 ### Lessons Learned
 
