@@ -7,7 +7,9 @@ sections:
     title: 'Hi, I''m Christoph Götz.'
     content: >
       I am a creator and an explorer. I fascinated by information processing and
-      explore fields like neuro-science, high-tech, music and photography.
+      explore fields like neuro-science, high-tech, music and photography. 
+
+
       Currently, I build award winning clincal AI to facilitate early diagnosis
       of musculoskeletal disease for over a billion patients worldwide.
     actions:
