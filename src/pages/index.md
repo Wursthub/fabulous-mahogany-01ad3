@@ -6,10 +6,11 @@ sections:
     type: section_hero
     title: 'Hi, I''m Christoph Götz.'
     content: >
-      I am a creator and an explorer. Science, high-tech, music and photography
-      are the areas my projects are about. Currently, I help building AI to
-      facilitate early diagnosis of musculoskeletal disease for over a billion
-      patients worldwide.
+      I am a creator and an explorer. I use innovation to change the status quo
+      in fields like science, high-tech, music and photography are the areas my
+      projects are about. Currently, I help building AI to facilitate early
+      diagnosis of musculoskeletal disease for over a billion patients
+      worldwide.
     actions:
       - label: Let's talk
         url: /contact
