@@ -48,35 +48,6 @@ sections:
           Using photography to elevate mundane objects or moments to show their
           inherent beauty is what I try while traveling. This way I focus much
           more on the moment and create stronger memories at the same time.
-  - section_id: testimonials
-    type: section_testimonials
-    title: Testimonials
-    subtitle: An optional subtitle of the section
-    col_number: three
-    testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
