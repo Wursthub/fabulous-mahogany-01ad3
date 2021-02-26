@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Christoph Götz.'
     content: >
-      I am a creator and a explorer. Science, high-tech, music and photography
+      I am a creator and an explorer. Science, high-tech, music and photography
       is what I am most curious about. Currently, I help building AI to
       facilitate early diagnosis of musculoskeletal disease for over a billion
       patients worldwide.
