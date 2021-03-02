@@ -56,7 +56,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: Small
+    subtitle: Smaller random topics
     posts_number: 3
     col_number: three
     actions:
