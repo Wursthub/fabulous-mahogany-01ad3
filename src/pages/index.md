@@ -10,8 +10,10 @@ sections:
       and explore fields like neuro-science, high-tech, music and photography.
 
 
-      Currently, I build award winning clincal AI to facilitate early diagnosis
-      of musculoskeletal disease for over a billion patients worldwide.
+      Currently, I build [award
+      winning](https://www.auntminnieeurope.com/index.aspx?sec=sup\&sub=cto\&pag=dis\&ItemID=619843)
+      medical AI to facilitate early diagnosis of musculoskeletal disease for
+      over a billion patients worldwide.
     actions:
       - label: Let's talk
         url: /contact
