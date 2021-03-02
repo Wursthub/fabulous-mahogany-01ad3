@@ -1,6 +1,6 @@
 ---
 title: What is a Quality Management System?
-subtitle: 'A interesting tale about function of design '
+subtitle: An interesting tale about humans trying to not repeat stupid things
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
