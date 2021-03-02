@@ -1,7 +1,7 @@
 ---
 title: What is a Quality Management System?
 subtitle: An interesting tale about humans trying to not repeat stupid things
-excerpt: Quality management is a
+excerpt: Quality management is how humanity avoids repeating stupid stuff
 date: '2018-01-15'
 thumb_image: images/4.jpg
 thumb_image_alt: A table tennis racket on a pink background
