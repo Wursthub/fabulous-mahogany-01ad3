@@ -1,9 +1,7 @@
 ---
 title: What is a Quality Management System?
 subtitle: An interesting tale about humans trying to not repeat stupid things
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+excerpt: Quality management is a
 date: '2018-01-15'
 thumb_image: images/4.jpg
 thumb_image_alt: A table tennis racket on a pink background
